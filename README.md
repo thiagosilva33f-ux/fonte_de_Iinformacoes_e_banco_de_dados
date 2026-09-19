@@ -12,4 +12,4 @@ Análises feitas:
 
 
 Tendo observados e interagindo o mapa a cidade de Manaus (87) soma uma  concentração de empresas certificadas que São josé dos Cmpos (4) 
-Por dedução análisada 
+Por dedução analisada 
