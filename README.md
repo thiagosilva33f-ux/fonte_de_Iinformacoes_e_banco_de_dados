@@ -1,6 +1,6 @@
 # fonte_de_Iinformacoes_e_banco_de_dados1
 Atividades desenvolvidas durante o 1° Semestre da faculdade de GPI FATEC-SJK
-## Analise de dados abertos em Dashboard
+## Análise de dados abertos em Dashboard
 Extração de dados relativos a empresas multimodais presente no site da ANTT. Para a construção do dashboard usando linguagem DAX e construção de visualizações
 Análises feitas:
 1)Quantas OTM's existem em cada cidade do Brasil
