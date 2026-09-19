@@ -2,6 +2,8 @@
 Atividades desenvolvidas durante o 1° Semestre da faculdade de GPI FATEC-SJK
 
 ## Análise de dados abertos em Dashboard
+https://github.com/thiagosilva33f-ux/fonte_de_Iinformacoes_e_banco_de_dados/blob/main/empresasmultimodais.pbix
+
 Extração de dados relativos a empresas multimodais presente no site da ANTT. Para a construção do dashboard usando linguagem DAX e construção de visualizações
 
 Análises feitas:
