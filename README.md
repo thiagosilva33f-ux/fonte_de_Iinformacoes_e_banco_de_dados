@@ -25,3 +25,21 @@ Por dedução analisada
 <img width="751" height="426" alt="IMG-20260908-WA0354" src="https://github.com/user-attachments/assets/e64dd796-68a9-4304-8e20-8fe31540225f" />
 
 <img width="745" height="424" alt="IMG-20260908-WA0350" src="https://github.com/user-attachments/assets/33595a5d-e348-4369-94fd-89f334d04305" />
+
+# operador_transporte_multimodal
+
+## desmostracao_em_graficos
+
+IMG-20260908-WA0350.jpg
+
+IMG-20260908-WA0352.jpg
+
+IMG-20260908-WA0353.jpg
+
+IMG-20260908-WA0354.jpg
+
+# Perguntas_e_Respostas_Contratos-5.xlsx
+
+README.md
+
+
