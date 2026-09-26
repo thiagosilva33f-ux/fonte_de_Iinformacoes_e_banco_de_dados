@@ -17,6 +17,7 @@ Tendo observados e interagindo o mapa a cidade de Manaus (87) soma uma  concentr
 
 Por dedução analisada 
 
+# desmostracao_em_graficos
 
 <img width="738" height="417" alt="IMG-20260908-WA0353" src="https://github.com/user-attachments/assets/7e5c1a8e-f6fb-45d0-8fa3-7b721de6b99e" />
 
@@ -30,17 +31,6 @@ Por dedução analisada
 
 # operador_transporte_multimodal
 
-## desmostracao_em_graficos
-
-IMG-20260908-WA0350.jpg
-
-IMG-20260908-WA0352.jpg
-
-IMG-20260908-WA0353.jpg
-
-IMG-20260908-WA0354.jpg
-
-# Perguntas_e_Respostas_Contratos-5.xlsx
 
 README.md
 
