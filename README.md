@@ -44,7 +44,7 @@ Por dedução analisada
 
 <img width="745" height="424" alt="IMG-20260908-WA0350" src="https://github.com/user-attachments/assets/33595a5d-e348-4369-94fd-89f334d04305" />
 
-# FONTE-DE-INFORMA-O-E-BANCO-DE-DADOS-
+# FONTE-DE-INFORMA-O-E-BANCO-DE-DADOS
 
 <img width="629" height="713" alt="image" src="https://github.com/user-attachments/assets/a0afb9e2-a2e0-4124-94e9-1d0ed6eaba60" />
 
