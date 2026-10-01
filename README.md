@@ -1,7 +1,9 @@
 # fonte_de_Iinformacoes_e_banco_de_dados1
+
 Atividades desenvolvidas durante o 1° Semestre da faculdade de GPI FATEC-SJK
 
-## Análise de dados abertos em Dashboard
+## Análise_de_dados_abertos_em_Dashboard
+
 https://github.com/thiagosilva33f-ux/fonte_de_Iinformacoes_e_banco_de_dados/blob/main/empresasmultimodais.pbix
 
 Extração de dados relativos a empresas multimodais presente no site da ANTT. Para a construção do dashboard usando linguagem DAX e construção de visualizações
@@ -31,6 +33,9 @@ Por dedução analisada
 
 # Dashbord_Analise_de_Contratos
 
+Análise de dados de contratos em dashboard para apontamentos e parâmetros palpável
+
+<img width="867" height="579" alt="Imagem2026-09-30 224817" src="https://github.com/user-attachments/assets/63ab0e62-721d-4356-88c1-2f3ab0ee5960" />
 
 
 # operador_transporte_multimodal
