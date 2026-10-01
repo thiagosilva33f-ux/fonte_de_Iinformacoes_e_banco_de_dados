@@ -38,21 +38,22 @@ Por dedução analisada
 
 # Dashbord_Analise_de_Contratos
 
-Análise de dados de contratos em dashboard para apontamentos e parâmetros palpável
+Análise de dados de Contratos em Dashboard em Power Bi para apontamentos e parâmetros palpável
 
 <img width="867" height="579" alt="Imagem2026-09-30 224817" src="https://github.com/user-attachments/assets/63ab0e62-721d-4356-88c1-2f3ab0ee5960" />
 
 
-# Operador_transporte_multimodal
+# Operador_Transporte_Multimodal
 
-Verificação de empresas multimoldais
+Verificação de Empresas Multimoldais
 
 <img width="986" height="440" alt="Captura de tela 2026-09-30 230042" src="https://github.com/user-attachments/assets/70a2fbe0-dfbc-4149-90d5-e00be31a138f" />
 
 
-# Mapa_de_verificaçao_multimoldais
+# Mapa_de_Verificaçao_Multimoldais
 
-Visualização interativa das empresas multimoldais
+Visualização Interativa das Empresas Multimoldais
+
 <img width="590" height="453" alt="Captura de tela 2026-09-25 233125" src="https://github.com/user-attachments/assets/62deea07-cb54-46ff-b282-61e8d02e548d" />
 
 
