@@ -1,3 +1,8 @@
+# Apresentação o Pessoal em Grupo
+
+# Link do Projeto: https://canva.link/25d7lsz4gbklud4
+
+
 # Fonte_de_Iinformacoes_e_Banco_de_Dados1
 
 Atividades desenvolvidas durante o 1° Semestre da faculdade de GPI FATEC-SJK
