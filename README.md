@@ -1,4 +1,4 @@
-# fonte_de_Iinformacoes_e_banco_de_dados1
+# Fonte_de_Iinformacoes_e_Banco_de_Dados1
 
 Atividades desenvolvidas durante o 1° Semestre da faculdade de GPI FATEC-SJK
 
@@ -19,7 +19,7 @@ Tendo observados e interagindo o mapa a cidade de Manaus (87) soma uma  concentr
 
 Por dedução analisada 
 
-# desmostracao_em_graficos
+# Desmostracao_em_Graficos
 
 <img width="738" height="417" alt="IMG-20260908-WA0353" src="https://github.com/user-attachments/assets/7e5c1a8e-f6fb-45d0-8fa3-7b721de6b99e" />
 
@@ -43,7 +43,7 @@ Análise de dados de contratos em dashboard para apontamentos e parâmetros palp
 <img width="867" height="579" alt="Imagem2026-09-30 224817" src="https://github.com/user-attachments/assets/63ab0e62-721d-4356-88c1-2f3ab0ee5960" />
 
 
-# operador_transporte_multimodal
+# Operador_transporte_multimodal
 
 Verificação de empresas multimoldais
 
