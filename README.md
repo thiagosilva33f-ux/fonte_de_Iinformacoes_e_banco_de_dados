@@ -7,7 +7,7 @@ Iniciamos nossa trajetória na # FATEC no Curso de Gestão da Produção Industr
 <img width="985" height="555" alt="Captura de tela 2026-09-30 231437" src="https://github.com/user-attachments/assets/3bccb02f-49b2-4655-9ee0-0918f57017ff" />
 
 
-# Fonte_de_Iinformacoes_e_Banco_de_Dados1
+# Fonte_de_Iinformacoes_e_Banco_de_Dados
 
 Atividades desenvolvidas durante o 1° Semestre da faculdade de GPI FATEC-SJK
 
