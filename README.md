@@ -1,6 +1,10 @@
 # Apresentação o Pessoal em Grupo
 
+Iniciamos nossa trajetória na # FATEC no Curso de Gestão da Produção Industrial, com muito entusiasmos e fome de conhecimento
+
 # Link do Projeto: https://canva.link/25d7lsz4gbklud4
+
+<img width="985" height="555" alt="Captura de tela 2026-09-30 231437" src="https://github.com/user-attachments/assets/3bccb02f-49b2-4655-9ee0-0918f57017ff" />
 
 
 # Fonte_de_Iinformacoes_e_Banco_de_Dados1
