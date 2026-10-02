@@ -28,8 +28,11 @@ Tendo observados e interagindo o mapa a cidade de Manaus (87) soma uma  concentr
 
 Por dedução analisada 
 
-# Desmostracao_em_Graficos
+# Desmostracao_em_Gráficos
 
+Contratos_de_Serviços_Análise_de_Dados 
+
+Consiste em apresentar em Gráficos de contratos com seus valores e tempo de prestaçao de serviços
 <img width="738" height="417" alt="IMG-20260908-WA0353" src="https://github.com/user-attachments/assets/7e5c1a8e-f6fb-45d0-8fa3-7b721de6b99e" />
 
 
