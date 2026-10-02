@@ -1,6 +1,6 @@
  # Apresentação  Pessoal em Equipe
 
-Iniciamos nossa trajetória na # FATEC no Curso de Gestão da Produção Industrial, com muito entusiasmos e fome de conhecimento
+Iniciamos nossa trajetória na # FATEC no Curso de Gestão da Produção Industrial, excelente momento profissional e pessoal.
 
 # Link do Projeto: https://canva.link/25d7lsz4gbklud4
 
