@@ -1,4 +1,4 @@
-# Apresentação  Pessoal em Equipe
+ # Apresentação  Pessoal em Equipe
 
 Iniciamos nossa trajetória na # FATEC no Curso de Gestão da Produção Industrial, com muito entusiasmos e fome de conhecimento
 
