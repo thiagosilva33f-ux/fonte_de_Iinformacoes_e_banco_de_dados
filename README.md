@@ -56,7 +56,7 @@ Consiste em apresentar em Gráficos de contratos com seus valores e tempo de pre
 
 Análise de dados de Contratos em Dashboard em Power Bi para apontamentos e parâmetros palpável
 
-<img width="867" height="579" alt="Imagem2026-09-30 224817" src="https://github.com/user-attachments/assets/63ab0e62-721d-4356-88c1-2f3ab0ee5960" />
+<img width="787" height="442" alt="Captura de tela 2026-10-02 220204" src="https://github.com/user-attachments/assets/ed257651-50ba-4c08-958b-bfa0ea192d0b" />
 
 
 # Operador_Transporte_Multimodal
