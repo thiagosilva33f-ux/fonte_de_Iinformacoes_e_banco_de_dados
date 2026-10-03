@@ -28,7 +28,7 @@ Tendo observados e interagindo o mapa a cidade de Manaus (87) soma uma  concentr
 
 Por dedução analisada 
 
-# Desmostracao_em_Gráficos
+# Demonstracao_em_Gráficos
 
 Contratos_de_Serviços_Análise_de_Dados 
 
