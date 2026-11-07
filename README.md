@@ -74,3 +74,16 @@ Visualização Interativa das Empresas Multimoldais
 
 
 https://github.com/thiagosilva33f-ux/fonte_de_Iinformacoes_e_banco_de_dados/blob/main/im
+
+# Analise_Regressao_linear
+
+<img width="923" height="552" alt="Captura de tela 2026-11-06 210814" src="https://github.com/user-attachments/assets/eee71776-2676-4189-8291-13c0e01c437f" />
+
+
+
+<img width="890" height="542" alt="Captura de tela 2026-11-06 210832" src="https://github.com/user-attachments/assets/20a5c0dc-8a38-441a-b92f-0bac8c489d6b" />
+
+
+
+
+
