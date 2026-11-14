@@ -91,6 +91,22 @@ Dados tabelado em forma de grafico
 <img width="890" height="542" alt="Captura de tela 2026-11-06 210832" src="https://github.com/user-attachments/assets/20a5c0dc-8a38-441a-b92f-0bac8c489d6b" />
 
 
+# Dashboard contratos
 
+Neste dashboard de contratos realizei 3 visualizacoes, interativas e informativo. 
+
+<img width="1384" height="784" alt="Captura de tela 2026-11-13 224105" src="https://github.com/user-attachments/assets/94f6fa3f-e27a-499c-983c-00bff0123115" />
+
+# Tratamento de dados e Regressao linear
+
+Aplicacao de tratamentos de dados e regressao de linear com indicacao da linha de tendencia.
+
+palnilha de excel
+
+<img width="1717" height="790" alt="Captura de tela 2026-11-13 224306" src="https://github.com/user-attachments/assets/f7387625-59d8-45e2-a6c1-3134101d7a57" />
+
+Regressao  Linear
+
+<img width="720" height="409" alt="Captura de tela 2026-11-13 213528" src="https://github.com/user-attachments/assets/15e6fe1c-ef36-4df2-87c9-133cdb895333" />
 
 
