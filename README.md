@@ -101,7 +101,7 @@ Neste dashboard de contratos realizei 3 visualizacoes, interativas e informativo
 
 Aplicacao de tratamentos de dados e regressao de linear com indicacao da linha de tendencia.
 
-palnilha de excel
+Planilha de excel
 
 <img width="1717" height="790" alt="Captura de tela 2026-11-13 224306" src="https://github.com/user-attachments/assets/f7387625-59d8-45e2-a6c1-3134101d7a57" />
 
