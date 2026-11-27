@@ -109,4 +109,17 @@ Regressao  Linear
 
 <img width="720" height="409" alt="Captura de tela 2026-11-13 213528" src="https://github.com/user-attachments/assets/15e6fe1c-ef36-4df2-87c9-133cdb895333" />
 
+# Certificado Power BI 
+
+Nesse semestre obtive a grande oportunidade de conhecer essa ferramenta incrivél.
+
+<img width="1010" height="712" alt="image" src="https://github.com/user-attachments/assets/e051abcc-29d8-44d3-b820-02e771cbb3e8" />
+
+
+
+
+
+
+
+
 
